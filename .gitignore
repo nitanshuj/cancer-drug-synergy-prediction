@@ -124,6 +124,10 @@ celerybeat.pid
 Data/
 .References
 References/
+.Documentation_main
+Documentation_main/
+.Documentation_Secondary
+Documentation_Secondary/
 
 
 # Environments
