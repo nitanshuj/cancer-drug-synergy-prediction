@@ -1,23 +1,30 @@
-# Basic Descriptions of Terms
+# **Concepts and Terminologies**
 
+## **Drug Synergy**
+- There are two drugs that have specific responses individually on the cell lines. 
+- Let's say they are drug A and drug B. 
+- The combined responses of drug A and drug B can have an additive or an inhibitive response on the cell lines.
+- This is measured with something we call as synergy scores.
 
-### About Drug Synergy
-There are two drugs that have specific responses individually on the cell lines. 
-Let's say they are drug A and drug B. 
-The combined responses of drug A and drug B can have an additive or an inhibitive response on the cell lines.
 
 ### **`Synergy Scores`**
-**What is a synergy score?**<br>
-- A synergy score is a quantitative measure that assesses the `combined effect of two or more drugs` or compounds when used together, compared to the sum of their individual effects. <br>
-- It quantifies the degree of synergy or enhancement of therapeutic outcomes achieved through drug interactions. <br>
+- A synergy score is a quantitative measure that assesses the `combined effect of two or more drugs` or compounds when used together, compared to the sum of their individual effects.
+- It quantifies the degree of synergy or enhancement of therapeutic outcomes achieved through drug interactions.
 - A higher synergy score indicates a greater-than-expected positive interaction between the drugs, suggesting that their combined effect is stronger than what would be predicted based on their individual effects.
 - It aids in predicting potential synergistic effects in untested drug combinations for patients.
 - It also identifies new biomarkers that could uncover mechanisms of drug synergy 
 - It also Helps to predict whether a known drug combination will be effective for a specific patient.
 
+### **`Why Drug Synergy scores are important??`**
+Drug synergy is of paramount importance due to its role in optimizing treatment effectiveness and addressing the challenge of treatment resistance, particularly in the context of intricate and multifaceted diseases like cancer. 
+
+When multiple drugs interact synergistically, their combined effect becomes greater than the sum of their individual effects. This phenomenon can lead to more potent therapeutic outcomes, enabling lower individual drug doses, reducing the risk of adverse reactions, and potentially overcoming mechanisms that contribute to treatment resistance. 
+
+By harnessing the power of drug synergy, medical interventions can achieve enhanced results and provide a more comprehensive approach to managing complex diseases.
 
 
-### Cancer Cell Lines
+
+### **Cancer Cell Lines**
 
 - Cancer cell lines are cultured cells derived from cancerous tumors.
 - These cell lines serve as models for studying: 
@@ -25,7 +32,7 @@ The combined responses of drug A and drug B can have an additive or an inhibitiv
     - validating cancer targets
     - defining drug efficacy 
     - drug development
-    - therapeutic interventions. 
+    - therapeutic interventions
 - Cancer cell lines are the most commonly used models for studying cancer biology. 
 - They are widely used in research laboratories and pharmaceutical companies to investigate the mechanisms underlying cancer growth, metastasis, and drug responses.
 
