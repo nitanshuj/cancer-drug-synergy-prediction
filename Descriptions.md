@@ -1,5 +1,20 @@
 # **Concepts and Terminologies**
 
+
+### Why Gene-expression and PPIs are important?
+
+Analyzing gene expression levels and the biological pathways associated with the genes involved in cancer leads to studying the difference between a normal cell and cancerous cell pathways to determine the genetic origin of the faulty pathway and thereby identifying potential targets for treating cancer.
+
+Protein-protein interactions (PPIs) participate in all important biological processes in living organisms, such as catalyzing metabolic reactions, DNA replication, DNA transcription, responding to stimuli, and transporting molecules from one location to another
+Understanding the molecular mechanisms of PPIs is crucial for developing accurate methods for the prevention, diagnosis, and treatment of cancers. 
+
+The contact interface between two proteins is the structural foundation of their interaction. Understanding the contact region between proteins will help to elucidate their functions in interaction networks.
+
+The cancer-related proteins are abnormally expressed (overexpressed, low expressed, or mutant) in cancer cells compared to normal cells.
+Deeper investigations of protein-protein interfaces relevant to human oncogenesis and cancer-associated protein-protein interaction networks have shown that cancer-related proteins are smaller, more planar, more charged, and have less hydrophobic binding sites than non-cancer-related proteins and they tend to show lower affinity and higher specificity for cancer-associated PPI networks. Moreover, cancer-related proteins often interface with their binding partners using distinct surfaces, corresponding typically to the multi-interface hub.
+
+
+
 ## **Drug Synergy**
 - There are two drugs that have specific responses individually on the cell lines. 
 - Let's say they are drug A and drug B. 
